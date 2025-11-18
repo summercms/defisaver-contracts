@@ -35,7 +35,7 @@
     "@truffle/debug-utils": "^4.1.1",
     "chai": "^4.2.0",
     "husky": "^4.2.3",
-    "mocha": "^7.1.2",
+    "mocha": "^11.7.5",
     "sol-merger": "^2.0.1",
     "solhint": "^3.0.0"
   },
